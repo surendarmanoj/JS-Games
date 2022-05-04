@@ -1,1 +1,1 @@
-This is the Candy Crush game built usng Javascript
+This is the list of JS games built
