@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#turns{
+    color: red;
+}
+
+#board{
+    height: 400px;
+    width: 400px;
+    border: 2px solid purple;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#board img{
+    width: 78px;
+    height: 78px;
+    border: .5px solid lightblue;
+
+}
+
+#pieces{
+    width: 1040px;
+    height: 160px;
+    border: 2px solid purple;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pieces img{
+    width: 78px;
+    height: 78px;
+    border: 0.5px solid lightblue;
+}
